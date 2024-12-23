@@ -1,6 +1,6 @@
 # DatabaseForRestaurantAnalytics
 
-Credits
+**Credits**
 
 Gui Moraes Brant De Almeida: 251301839\
 Joel Friesen Waldner: 251303569\
