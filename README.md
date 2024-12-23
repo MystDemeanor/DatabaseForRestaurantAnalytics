@@ -1,9 +1,9 @@
 # DatabaseForRestaurantAnalytics
 
 This GitHub repository contains the complete implementation of the Restaurant Analytics and Insights System, including:
-- Enhanced ER Modeling
-- Relational Schema Design
-- Normalization to ensure all tables adhered to 3NF or BCNF for efficiency and accuracy, minimizing modification anomolies. 
+- Enhanced ER Modeling: Aggregation and subclassing techniques applied to the ER Model
+- Normalization: Ensured all tables adhere to 3NF and BCNF for efficiency and accuracy, minimizing modification anomalies. 
+- Relational Schema Design: Effectively defined entities and relationships between entities.
 - SQL scripts for table creation, data insertion, and query execution.
 - Python scripts for generating realistic datasets using tools like Faker and automating data import into MySQL.
 - Detailed query implementations for analyzing demographics, foot traffic, restaurant popularity, and dietary preferences.
