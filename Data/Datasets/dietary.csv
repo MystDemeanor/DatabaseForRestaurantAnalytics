@@ -1,0 +1,501 @@
+food_name,food_origin,diet
+Plantains,iran,Vegetarian
+Jambalaya,belgium,Low-Fat
+Bratwurst,slovenia,Flexitarian
+Salad,ecuador,Sugar-Free
+Jollof Rice,maldives,Keto
+Pancakes,egypt,Low-Carb
+Tonkatsu,panama,Gluten-Free
+Plantains,iran,Diabetic-Friendly
+Harira,poland,Whole30
+Kimchi,nigeria,Low-Sodium
+Coleslaw,west-bank,Dairy-Free
+Baklava,solomon-islands,Flexitarian
+Steak,russia,Sugar-Free
+Udon,mauritania,Sugar-Free
+Hotdog,puerto-rico,High-Protein
+Pierogi,bosnia-and-herzegovina,Whole30
+Pho,belgium,Low-Fat
+Salad,ecuador,Flexitarian
+Bratwurst,slovenia,Gluten-Free
+Pancakes,burundi,Vegan
+Pho,montenegro,Anti-Inflammatory
+Baguette,congo-democratic-republic-of-the,Diabetic-Friendly
+Harira,canada,Low-Sodium
+Steak,guinea-bissau,Low-Carb
+Carrot Cake,egypt,Anti-Inflammatory
+Banoffee Pie,uruguay,Diabetic-Friendly
+Laksa,nepal,Whole30
+Nasi Goreng,philippines,Dairy-Free
+Fried Chicken,oman,Pescatarian
+Chow Mein,congo-democratic-republic-of-the,Vegan
+Satay,bolivia,Vegan
+Hummus,curacao,Vegetarian
+Barbecue Ribs,iraq,Keto
+Spring Rolls,tajikistan,Whole30
+Salad,mozambique,Anti-Inflammatory
+Burger,malawi,Keto
+Pancakes,ireland,Sugar-Free
+Hummus,solomon-islands,Carnivore
+Curry,antigua-and-barbuda,Pescatarian
+Hummus,curacao,Mediterranean
+Nasi Goreng,sudan,Paleo
+Bento Box,costa-rica,Low-Carb
+Tamales,samoa,Dairy-Free
+Burger,malawi,Anti-Inflammatory
+Gumbo,isle-of-man,Carnivore
+Pancakes,burundi,Pescatarian
+Risotto,malaysia,Sugar-Free
+Arepas,vietnam,Diabetic-Friendly
+Fish and Chips,saint-lucia,Raw Food
+Meatballs,malawi,Anti-Inflammatory
+Jambalaya,czechia,Sugar-Free
+Lamb Roast,turks-and-caicos-islands,Low-Fat
+Empanadas,guinea,Low-Fat
+Spring Rolls,cyprus,Low-Carb
+Salad,namibia,Anti-Inflammatory
+Roti,papua-new-guinea,Gluten-Free
+Arepas,vanuatu,Diabetic-Friendly
+Arepas,kuwait,Keto
+Poke Bowl,italy,Vegan
+Cornbread,canada,Sugar-Free
+Ramen,djibouti,Carnivore
+Tortilla,ecuador,Mediterranean
+Pho,montenegro,High-Protein
+Steamed Buns,cambodia,Vegetarian
+Udon,mauritania,Low-Sodium
+Risotto,nicaragua,Flexitarian
+Miso Soup,congo-democratic-republic-of-the,High-Protein
+Risotto,romania,Mediterranean
+Steak,russia,Diabetic-Friendly
+Gumbo,faroe-islands,Whole30
+Gelato,cayman-islands,Gluten-Free
+Salad,ecuador,FODMAP
+Hummus,curacao,Low-Carb
+Quiche,india,Keto
+Cornbread,guinea,Carnivore
+Tabbouleh,antigua-and-barbuda,Vegetarian
+Tempura,cayman-islands,High-Protein
+Salad,botswana,Vegan
+Churros,latvia,Low-Sodium
+Shepherd's Pie,isle-of-man,Paleo
+Moussaka,aruba,Low-Carb
+Quiche,guinea-bissau,Keto
+Clam Chowder,malawi,Dairy-Free
+Risotto,nicaragua,Gluten-Free
+Jambalaya,belgium,Diabetic-Friendly
+Chow Mein,greenland,High-Protein
+Pasta,switzerland,Vegetarian
+Spring Rolls,hungary,Raw Food
+Arepas,kuwait,Whole30
+Pozole,botswana,Paleo
+Falafel,united-states,Gluten-Free
+Pizza,dominican-republic,Low-Carb
+Pho,portugal,High-Protein
+Salad,brazil,Vegetarian
+Harira,canada,Raw Food
+Falafel,panama,Whole30
+Gumbo,faroe-islands,Low-Sodium
+Spring Rolls,tajikistan,Flexitarian
+Dolma,sri-lanka,Pescatarian
+Arepas,cote-divoire,Low-Sodium
+Salad,malaysia,Sugar-Free
+Clam Chowder,malawi,Low-Fat
+Croissant,malta,Pescatarian
+Borscht,mali,Low-Sodium
+Banoffee Pie,montenegro,FODMAP
+Goulash,antigua-and-barbuda,Raw Food
+Ratatouille,eswatini,Whole30
+Tacos,malta,High-Protein
+Borscht,sweden,Whole30
+Poke Bowl,china,Diabetic-Friendly
+Falafel,moldova,Vegetarian
+Cornbread,canada,Raw Food
+Cheesecake,colombia,Pescatarian
+Samosa,united-states,Keto
+Ratatouille,syria,Low-Carb
+Sticky Rice,pakistan,Keto
+Pasta,northern-mariana-islands,Paleo
+Lamb Roast,turkey-turkiye,Low-Sodium
+Fish and Chips,saint-lucia,Gluten-Free
+Miso Soup,iran,Mediterranean
+Udon,nepal,Anti-Inflammatory
+Pierogi,bosnia-and-herzegovina,Low-Sodium
+Coleslaw,costa-rica,Low-Carb
+Baguette,armenia,Flexitarian
+Borscht,paraguay,Pescatarian
+Pancakes,egypt,Vegan
+Bratwurst,french-polynesia,Paleo
+Pancakes,egypt,Gluten-Free
+Bento Box,burundi,Whole30
+Clam Chowder,malawi,High-Protein
+Jambalaya,belgium,Mediterranean
+Gumbo,faroe-islands,Gluten-Free
+Pierogi,bosnia-and-herzegovina,Sugar-Free
+Salad,botswana,Pescatarian
+Croissant,pakistan,Raw Food
+Gnocchi,sao-tome-and-principe,Whole30
+Laksa,rwanda,Low-Fat
+Tempura,seychelles,Diabetic-Friendly
+Samosa,georgia,Anti-Inflammatory
+Pozole,mauritania,Low-Carb
+Fish and Chips,poland,Vegan
+Pizza,dominican-republic,High-Protein
+Baguette,italy,Mediterranean
+Pozole,botswana,Dairy-Free
+Hotdog,fiji,Keto
+Jambalaya,belgium,Low-Sodium
+Pierogi,nicaragua,Gluten-Free
+Risotto,madagascar,FODMAP
+Barbecue Ribs,israel,Low-Carb
+Gumbo,faroe-islands,Paleo
+Miso Soup,china,Gluten-Free
+Roti,papua-new-guinea,Flexitarian
+Baguette,congo-democratic-republic-of-the,Raw Food
+Borscht,china,Diabetic-Friendly
+Carrot Cake,sri-lanka,Low-Sodium
+Omelette,benin,Whole30
+Falafel,bosnia-and-herzegovina,Low-Fat
+Risotto,romania,Gluten-Free
+Nasi Goreng,jamaica,Anti-Inflammatory
+Gumbo,chad,Low-Carb
+Quiche,solomon-islands,Vegetarian
+Tamales,costa-rica,FODMAP
+Poke Bowl,china,Vegan
+Tempura,seychelles,Vegan
+Jollof Rice,new-zealand,Sugar-Free
+Croissant,malta,Vegan
+Churros,korea-south,FODMAP
+Hotdog,fiji,Low-Fat
+Quiche,india,Pescatarian
+Bento Box,costa-rica,High-Protein
+Khachapuri,yemen,Vegetarian
+Tonkatsu,panama,Raw Food
+French Fries,lithuania,Keto
+Arepas,djibouti,High-Protein
+Poke Bowl,china,Gluten-Free
+Steamed Buns,cambodia,Low-Carb
+Pierogi,curacao,Vegan
+Bratwurst,slovenia,Dairy-Free
+Fish and Chips,eswatini,Pescatarian
+Ratatouille,eswatini,Gluten-Free
+Pancakes,burundi,Keto
+Curry,united-arab-emirates,Raw Food
+Spring Rolls,hungary,Keto
+Curry,antigua-and-barbuda,High-Protein
+Coleslaw,ireland,Carnivore
+Tabbouleh,thailand,Mediterranean
+Bratwurst,rwanda,Keto
+Shakshuka,virgin-islands,Low-Carb
+Jollof Rice,maldives,Raw Food
+Macarons,equatorial-guinea,Gluten-Free
+Pho,belgium,Dairy-Free
+Pho,antigua-and-barbuda,Diabetic-Friendly
+Quiche,el-salvador,Vegetarian
+Jambalaya,gabon,Whole30
+Spring Rolls,tajikistan,High-Protein
+Khachapuri,costa-rica,Keto
+Shakshuka,virgin-islands,Raw Food
+Plantains,india,Low-Carb
+Fufu,hong-kong,Flexitarian
+Crepes,dominican-republic,Whole30
+Cassoulet,kenya,Paleo
+Curry,united-arab-emirates,Vegetarian
+Biryani,niger,Sugar-Free
+Omelette,cabo-verde,High-Protein
+Tacos,eritrea,FODMAP
+Falafel,burkina-faso,Whole30
+Borscht,mali,Flexitarian
+French Fries,lithuania,Mediterranean
+Curry,burkina-faso,Whole30
+Bratwurst,finland,Low-Carb
+Risotto,madagascar,Low-Carb
+Plantains,india,Mediterranean
+Pancakes,ireland,High-Protein
+Coleslaw,ireland,Whole30
+Satay,guyana,Diabetic-Friendly
+Cornbread,canada,Flexitarian
+Arepas,vanuatu,Vegan
+Ceviche,seychelles,Low-Carb
+Samosa,trinidad-and-tobago,Low-Carb
+Jambalaya,belgium,Flexitarian
+Pierogi,south-sudan,Vegetarian
+Pad Thai,sweden,Whole30
+Jambalaya,cayman-islands,Carnivore
+Borscht,mali,High-Protein
+Fish and Chips,mauritania,High-Protein
+Bento Box,spain,Dairy-Free
+Hummus,curacao,Anti-Inflammatory
+Jambalaya,yemen,Sugar-Free
+Pierogi,south-sudan,Keto
+Khachapuri,costa-rica,Sugar-Free
+Banoffee Pie,uruguay,Raw Food
+Fish and Chips,new-zealand,Vegetarian
+Cornbread,estonia,Keto
+Borscht,sweden,Pescatarian
+Lasagna,micronesia-federated-states-of,Sugar-Free
+Harira,tonga,Vegan
+Kimchi,dominican-republic,Diabetic-Friendly
+Nasi Goreng,philippines,Keto
+Pozole,malaysia,Low-Carb
+Paella,curacao,Raw Food
+Churros,turkmenistan,Pescatarian
+Bratwurst,french-polynesia,Low-Carb
+Sticky Rice,pakistan,Sugar-Free
+Laksa,nepal,Vegan
+Omelette,cabo-verde,Diabetic-Friendly
+Tabbouleh,antigua-and-barbuda,FODMAP
+French Fries,cabo-verde,Gluten-Free
+Moussaka,aruba,High-Protein
+Croissant,pakistan,Carnivore
+Pierogi,nicaragua,Mediterranean
+Goulash,spain,Low-Sodium
+Nasi Goreng,jamaica,High-Protein
+Dolma,qatar,Low-Sodium
+Barbecue Ribs,central-african-republic,Vegetarian
+Fish and Chips,saint-lucia,Mediterranean
+Meatballs,bermuda,Diabetic-Friendly
+Pasta,northern-mariana-islands,Flexitarian
+Pho,portugal,Mediterranean
+Crepes,turkmenistan,Carnivore
+Plantains,iran,Flexitarian
+Pad Thai,dominican-republic,Vegetarian
+Udon,malta,Anti-Inflammatory
+Lasagna,oman,Low-Fat
+Pancakes,burundi,FODMAP
+Fufu,hong-kong,Whole30
+Ratatouille,kuwait,Gluten-Free
+Curry,lebanon,Vegan
+Croissant,pakistan,Paleo
+Baguette,armenia,High-Protein
+Gumbo,faroe-islands,Diabetic-Friendly
+Pancakes,ireland,Dairy-Free
+Omelette,cabo-verde,Low-Sodium
+Quiche,croatia,Vegan
+Samosa,georgia,Low-Fat
+Kebab,somalia,Whole30
+Satay,guyana,Whole30
+Plantains,korea-north,Sugar-Free
+Ceviche,seychelles,High-Protein
+Poke Bowl,lithuania,Dairy-Free
+Tamales,samoa,FODMAP
+Harira,poland,Gluten-Free
+Barbecue Ribs,israel,Flexitarian
+Crepes,dominican-republic,Vegetarian
+Tortilla,ecuador,Flexitarian
+Pad Thai,sweden,Paleo
+Pancakes,ireland,Gluten-Free
+Fish and Chips,kenya,Low-Sodium
+Burger,malawi,Sugar-Free
+Pizza,dominican-republic,Raw Food
+Omelette,cabo-verde,Anti-Inflammatory
+Salad,malaysia,Low-Fat
+Shepherd's Pie,isle-of-man,Anti-Inflammatory
+Poke Bowl,afghanistan,Sugar-Free
+Hummus,curacao,FODMAP
+Samosa,united-states,Sugar-Free
+Lasagna,micronesia-federated-states-of,Low-Fat
+Spring Rolls,cyprus,Flexitarian
+Tortilla,albania,Vegan
+Fried Chicken,bermuda,Paleo
+Spring Rolls,hungary,Carnivore
+Risotto,nicaragua,Dairy-Free
+Falafel,panama,Anti-Inflammatory
+Croissant,vietnam,Diabetic-Friendly
+Ratatouille,syria,High-Protein
+Pizza,saint-vincent-and-the-grenadines,Vegan
+Fish and Chips,poland,Mediterranean
+Lamb Roast,turks-and-caicos-islands,Gluten-Free
+Salad,namibia,Dairy-Free
+Gnocchi,new-caledonia,Mediterranean
+Spring Rolls,hungary,Pescatarian
+Meatballs,pakistan,Vegetarian
+Arepas,cote-divoire,Keto
+Gelato,vanuatu,Mediterranean
+Nasi Goreng,jamaica,Keto
+Miso Soup,malta,Flexitarian
+Barbecue Ribs,west-bank,Carnivore
+Fufu,hong-kong,Pescatarian
+Crepes,dominican-republic,Low-Sodium
+Udon,nepal,Mediterranean
+Gelato,cayman-islands,Diabetic-Friendly
+Nasi Goreng,philippines,Low-Sodium
+Quiche,aruba,Carnivore
+Gnocchi,new-caledonia,High-Protein
+Cornbread,tajikistan,Raw Food
+Laksa,russia,Raw Food
+Lamb Roast,turks-and-caicos-islands,Low-Carb
+Pierogi,nicaragua,Pescatarian
+Shakshuka,peru,Sugar-Free
+Pasta,switzerland,Vegan
+Churros,turkmenistan,Mediterranean
+Churros,turkmenistan,Vegetarian
+Quiche,solomon-islands,Keto
+Bratwurst,finland,Flexitarian
+Pierogi,curacao,High-Protein
+Shakshuka,peru,Low-Sodium
+Khachapuri,costa-rica,Gluten-Free
+Dolma,sri-lanka,Low-Carb
+Hummus,curacao,High-Protein
+Udon,nepal,Low-Carb
+Vindaloo,bhutan,Sugar-Free
+Bao,bahamas-the,Pescatarian
+Baguette,armenia,Carnivore
+Curry,lebanon,Gluten-Free
+Spring Rolls,tajikistan,Carnivore
+Tacos,eritrea,Low-Sodium
+Tempura,seychelles,Flexitarian
+Carrot Cake,egypt,Pescatarian
+Salad,ecuador,Vegan
+Kimchi,chile,Anti-Inflammatory
+Barbecue Ribs,iraq,Vegetarian
+Carrot Cake,cayman-islands,Pescatarian
+Churros,korea-south,Raw Food
+Pho,portugal,Vegan
+Ratatouille,guam,Paleo
+Roti,papua-new-guinea,Sugar-Free
+Tempura,cayman-islands,Low-Carb
+Samosa,cameroon,Vegan
+Curry,burkina-faso,Dairy-Free
+Harira,poland,Vegan
+Arepas,djibouti,Paleo
+Falafel,austria,Whole30
+Clam Chowder,malawi,Low-Sodium
+Poke Bowl,china,Keto
+Gelato,vanuatu,Flexitarian
+Fufu,macau,Mediterranean
+Pho,comoros,Vegan
+Pasta,northern-mariana-islands,Low-Carb
+Poke Bowl,china,Whole30
+Churros,korea-south,Carnivore
+Borscht,sweden,Gluten-Free
+Arepas,saint-kitts-and-nevis,Carnivore
+Risotto,bhutan,FODMAP
+Jollof Rice,new-zealand,Low-Sodium
+Shakshuka,virgin-islands,Whole30
+Cassoulet,kenya,FODMAP
+Moussaka,lesotho,Keto
+Pancakes,ireland,Keto
+Fried Chicken,zambia,Low-Fat
+Dolma,sri-lanka,Gluten-Free
+Risotto,bhutan,Raw Food
+Steak,lithuania,Low-Sodium
+Steamed Buns,djibouti,High-Protein
+Baklava,solomon-islands,Mediterranean
+Coleslaw,ireland,High-Protein
+Fried Chicken,zambia,Flexitarian
+Arepas,kenya,Low-Sodium
+Omelette,malaysia,Flexitarian
+Harira,puerto-rico,Anti-Inflammatory
+Steamed Buns,australia,Low-Carb
+Plantains,india,Raw Food
+Croissant,bangladesh,Anti-Inflammatory
+Ratatouille,kuwait,Keto
+Coleslaw,uruguay,Diabetic-Friendly
+Fish and Chips,saint-lucia,Vegetarian
+Banoffee Pie,uruguay,High-Protein
+Hotdog,fiji,Low-Sodium
+Bento Box,costa-rica,Keto
+Lasagna,bahamas-the,Raw Food
+Pad Thai,somalia,Carnivore
+Fish and Chips,kenya,Whole30
+Burger,malawi,Whole30
+Gnocchi,sao-tome-and-principe,Pescatarian
+Gelato,kazakhstan,Flexitarian
+Omelette,cabo-verde,Dairy-Free
+Omelette,malaysia,Raw Food
+Arepas,vanuatu,Dairy-Free
+Tabbouleh,antigua-and-barbuda,Sugar-Free
+Biryani,niger,Whole30
+Kimchi,chile,Dairy-Free
+Poke Bowl,afghanistan,Paleo
+Satay,guyana,High-Protein
+Laksa,russia,Mediterranean
+Crepes,philippines,Raw Food
+Pad Thai,somalia,Vegetarian
+Harira,tonga,Gluten-Free
+Tempura,seychelles,Anti-Inflammatory
+Poke Bowl,china,Raw Food
+Omelette,cabo-verde,Low-Carb
+French Fries,lithuania,Whole30
+Quiche,croatia,Pescatarian
+Churros,latvia,Vegan
+Cornbread,estonia,Carnivore
+Tacos,eritrea,High-Protein
+Baguette,congo-democratic-republic-of-the,Low-Fat
+Churros,grenada,Low-Fat
+Bratwurst,slovenia,Low-Carb
+Pancakes,burundi,Sugar-Free
+Barbecue Ribs,israel,High-Protein
+Gumbo,chad,Anti-Inflammatory
+Kimchi,nigeria,Sugar-Free
+Clam Chowder,burundi,Keto
+Gnocchi,sao-tome-and-principe,Gluten-Free
+Salad,somalia,Keto
+Quiche,india,Vegan
+Fufu,hong-kong,Gluten-Free
+Arepas,kenya,Paleo
+Baklava,solomon-islands,Vegan
+Fried Chicken,oman,Anti-Inflammatory
+Steamed Buns,djibouti,Low-Fat
+Steak,guinea-bissau,FODMAP
+Salad,jordan,Low-Fat
+Bratwurst,finland,Vegan
+Roti,congo-republic-of-the,Diabetic-Friendly
+Burger,malawi,Flexitarian
+Lamb Roast,burkina-faso,Low-Sodium
+Fish and Chips,saint-lucia,Carnivore
+Jambalaya,cayman-islands,Diabetic-Friendly
+Tabbouleh,antigua-and-barbuda,Paleo
+Croissant,malta,Paleo
+Shepherd's Pie,isle-of-man,Gluten-Free
+Croissant,bangladesh,Flexitarian
+Crepes,sierra-leone,Gluten-Free
+Jambalaya,bermuda,Flexitarian
+Arepas,kazakhstan,Keto
+Meatballs,malawi,Vegan
+Falafel,bosnia-and-herzegovina,Diabetic-Friendly
+Arepas,kenya,Low-Fat
+French Fries,kenya,Dairy-Free
+Pierogi,bosnia-and-herzegovina,Vegetarian
+Spring Rolls,cyprus,Vegetarian
+Tortilla,albania,Raw Food
+Pierogi,united-kingdom,Flexitarian
+Udon,nepal,Gluten-Free
+Arepas,saint-kitts-and-nevis,Low-Fat
+Lasagna,micronesia-federated-states-of,Mediterranean
+Crepes,dominican-republic,Flexitarian
+Cornbread,canada,Gluten-Free
+Nasi Goreng,sudan,Low-Carb
+Tacos,eritrea,Paleo
+Crepes,dominican-republic,Low-Carb
+Satay,bolivia,Mediterranean
+Pozole,botswana,Gluten-Free
+Gnocchi,austria,Raw Food
+Banoffee Pie,portugal,Diabetic-Friendly
+Crepes,israel,Anti-Inflammatory
+Crepes,israel,Sugar-Free
+Tortilla,ecuador,Keto
+Barbecue Ribs,iraq,Low-Carb
+Laksa,kazakhstan,Sugar-Free
+Pasta,solomon-islands,Pescatarian
+Gnocchi,sao-tome-and-principe,Raw Food
+Gumbo,faroe-islands,Flexitarian
+Miso Soup,zambia,Low-Fat
+Falafel,burkina-faso,Keto
+Crepes,zambia,Vegan
+Falafel,moldova,Vegan
+Tabbouleh,antigua-and-barbuda,Keto
+Curry,antigua-and-barbuda,Vegan
+Pancakes,burundi,Mediterranean
+Coleslaw,senegal,Raw Food
+Fried Chicken,new-caledonia,Gluten-Free
+Satay,guyana,Vegetarian
+Haggis,slovakia,Anti-Inflammatory
+Shakshuka,nicaragua,Dairy-Free
+Lasagna,oman,Vegan
+Vindaloo,bhutan,Vegetarian
+Crepes,turkmenistan,Vegetarian
+Quiche,el-salvador,Sugar-Free
+Jollof Rice,jersey,Vegan
+Pizza,saint-vincent-and-the-grenadines,Carnivore

@@ -1,0 +1,301 @@
+restaurant_Name,address,avgRating
+Chipotle,22777 Rush Key,NULL
+Shake Shack,20131 Bradley Ways,4.4
+Dunkin',6561 James Junctions Suite 693,2.5
+Shake Shack,517 Gonzalez Orchard,NULL
+IHOP,764 Moyer Groves,4.29
+Applebee's,5698 Joel Trail Apt. 253,2.75
+Domino's,039 Johnson Bypass Apt. 537,3.32
+Cracker Barrel,6038 Luis Parkways,3.46
+Five Guys,207 Beth Alley,3.07
+Arby's,745 Dana River Suite 513,1.12
+Sonic Drive-In,4859 Isaac Squares,2.4
+Panera Bread,2894 Kenneth Roads,2.83
+IHOP,916 West Mountain Apt. 223,4.6
+Dunkin',81082 Albert Manors Apt. 771,2.22
+Cracker Barrel,9072 Sherman Loop,2.51
+Burger King,30407 Johnson Road Suite 780,2.06
+Wendy's,007 Tiffany Haven Suite 378,3.89
+Shake Shack,26939 Mathews Throughway Suite 744,4.42
+Starbucks,42875 Green Rapid,3.38
+Subway,85583 Courtney Village Apt. 623,3.64
+Taco Bell,1870 Jennifer Village Suite 635,1.51
+IHOP,042 Donald Circles Apt. 738,4.22
+Dunkin',31396 Lauren Lodge,1.44
+Red Lobster,66057 Bradford Ramp,3.76
+Tim Hortons,532 Pugh Wells,1.34
+Pizza Hut,2845 Miller Harbors Suite 164,2.82
+Tim Hortons,5112 Campbell Mount,3.7
+Dunkin',5112 Campbell Mount,3.21
+Subway,358 Dodson Passage,1.78
+Panera Bread,447 Alyssa Radial Apt. 946,1.38
+Popeyes,161 Berry Falls Suite 287,4.44
+Subway,2450 Lozano Spring,1.81
+Chipotle,5887 Javier Fort Apt. 356,3.71
+Domino's,670 Vanessa Cape,4
+Pizza Hut,209 Erika Land,2.97
+Subway,3258 Chase Motorway Apt. 151,3.29
+Little Caesars,849 Barrera Villages,3.58
+Pizza Hut,161 Berry Falls Suite 287,4.74
+Tim Hortons,726 Michael Via Suite 090,4.43
+Outback Steakhouse,991 Deborah Crescent,2.77
+Panera Bread,6685 Farley Locks,3.32
+KFC,8984 Moore Junctions Apt. 841,3.3
+Pizza Hut,567 Dean Ways Apt. 733,NULL
+Red Lobster,278 Price Rest,3.89
+Wendy's,3347 White Street,4.37
+McDonald's,456 Carrie Dale Apt. 861,1.63
+Subway,55401 Stanley Plaza Suite 740,3.09
+Tim Hortons,00983 Pamela Springs,4.03
+Sonic Drive-In,616 Yvette Islands,NULL
+Outback Steakhouse,51773 Holmes Fords Apt. 149,4.87
+Sonic Drive-In,757 Valerie Shores,NULL
+Shake Shack,00983 Pamela Springs,2.36
+Dunkin',677 Carolyn Way,4.04
+Cheesecake Factory,226 Patel Ridge Suite 602,1.18
+Cracker Barrel,5314 Mcdonald Throughway,1.53
+Popeyes,45590 Brown Prairie,4.88
+Tim Hortons,61988 Tony Isle,2.48
+Subway,2163 Sarah Inlet Suite 927,2.23
+Pizza Hut,0549 Susan Fields Suite 973,1.82
+Cheesecake Factory,6469 Crystal Crossroad,1.3
+Starbucks,186 Debra Village Suite 696,3.68
+KFC,300 Lloyd Causeway,2.6
+Shake Shack,2894 Kenneth Roads,4.35
+IHOP,471 Holloway Road,4.13
+Little Caesars,3461 Samuel Wells Apt. 182,3.02
+Taco Bell,553 Anderson Ridge Apt. 584,NULL
+Chipotle,2265 Christopher Crescent Suite 466,1.17
+Cracker Barrel,8162 Carroll Shoals,3.31
+Outback Steakhouse,3716 Weiss Mill Apt. 724,4.07
+Popeyes,738 Garner Bypass,NULL
+Cracker Barrel,546 Clark Mall,2.76
+Outback Steakhouse,491 Jennifer Parkway,2.59
+Little Caesars,62001 Mallory Extension,3.48
+Popeyes,213 Brandon Extensions Suite 945,2
+Applebee's,720 Wells Street,1.3
+Sonic Drive-In,0140 Smith Heights Suite 124,4.01
+Shake Shack,60267 Howard Street Suite 857,1.7
+McDonald's,5795 Danielle Ways,4.2
+Panera Bread,52323 Mercer Skyway Apt. 291,1.11
+Chick-fil-A,2450 Lozano Spring,3.7
+Buffalo Wild Wings,8707 Doyle Drive Apt. 256,2.71
+Chili's,98926 Baker Roads,4.59
+Outback Steakhouse,3871 Castaneda Pines Apt. 351,1.25
+Arby's,44067 Thompson Crescent,2.95
+Shake Shack,62001 Mallory Extension,NULL
+Popeyes,457 Bobby Lights Suite 545,3.79
+Cheesecake Factory,30538 Carrie Pike Apt. 628,3.11
+Outback Steakhouse,792 Perez Place,4.7
+McDonald's,82905 Douglas Plains Suite 291,3.93
+Starbucks,198 Dana Junctions,3.89
+Olive Garden,58655 Warner Divide Suite 874,3.25
+Panera Bread,726 Michael Via Suite 090,1.28
+TGI Friday's,943 Williams Flat Apt. 054,1.96
+TGI Friday's,38536 Richardson Green,NULL
+KFC,8481 Foster Drive,2.93
+Taco Bell,546 Clark Mall,4.17
+Sonic Drive-In,61988 Tony Isle,1.26
+Starbucks,19362 Payne Causeway Suite 534,4.71
+TGI Friday's,18669 Jackson Mount Suite 376,2.88
+Ruby Tuesday,55401 Stanley Plaza Suite 740,1.74
+Little Caesars,54047 Eric Station Apt. 446,3.74
+Tim Hortons,20131 Bradley Ways,1.07
+Cracker Barrel,3258 Chase Motorway Apt. 151,1.02
+Popeyes,92252 Diane Flat,1.71
+Little Caesars,2225 Gibson Islands Apt. 616,1.49
+Little Caesars,664 Austin Extension,1.51
+Five Guys,62545 Alexis Underpass Apt. 452,3.98
+Starbucks,0324 Claudia Tunnel Apt. 292,2.27
+Chili's,447 Alyssa Radial Apt. 946,2.94
+Arby's,590 Bernard Creek Apt. 744,1.12
+Buffalo Wild Wings,88469 Margaret Shore,4.32
+Red Lobster,1870 Jennifer Village Suite 635,4.2
+Olive Garden,322 Medina River,1.98
+Starbucks,78936 Lopez Freeway Apt. 599,NULL
+Pizza Hut,3600 Tamara Circle Apt. 910,2.19
+Sonic Drive-In,96285 Morrison Dam,3.99
+McDonald's,006 Scott Mountain Suite 766,3.42
+Pizza Hut,0324 Claudia Tunnel Apt. 292,1.57
+Ruby Tuesday,477 Smith Meadow Apt. 029,2.59
+Cheesecake Factory,12848 Navarro Turnpike Suite 366,2.37
+KFC,477 Smith Meadow Apt. 029,3.58
+Texas Roadhouse,38536 Richardson Green,3.45
+Pizza Hut,52323 Mercer Skyway Apt. 291,2.2
+Red Lobster,18825 Powers Trail,4.14
+Red Lobster,3600 Tamara Circle Apt. 910,1.96
+Olive Garden,42875 Green Rapid,3.19
+Olive Garden,9526 Jones Lodge Apt. 826,1.43
+Panera Bread,34980 Jones Inlet Apt. 469,1.85
+Chili's,849 Barrera Villages,NULL
+Panera Bread,442 Reynolds Expressway,4.88
+Olive Garden,6402 Reid Ford,2.2
+Cheesecake Factory,248 Aaron Wall Suite 624,1.04
+Red Lobster,1813 Garrett Mill,2.54
+Cheesecake Factory,78936 Lopez Freeway Apt. 599,NULL
+Tim Hortons,5113 Webb Springs,1.51
+Red Lobster,9968 Estes Inlet Suite 797,1.21
+Subway,24104 Melissa Village,3.66
+Starbucks,44769 Alexander Meadow Apt. 850,3.59
+Little Caesars,73551 Lopez Loaf,1.11
+Starbucks,41292 Conway Cape,1.24
+Chipotle,322 Medina River,1.44
+Chipotle,254 Natalie Harbor,2.44
+Chili's,34229 Earl Squares Apt. 712,4.09
+Texas Roadhouse,685 Tom Divide Apt. 622,2.86
+Pizza Hut,685 Tom Divide Apt. 622,2.89
+Cracker Barrel,991 Deborah Crescent,4.45
+Cracker Barrel,389 Michael Drive Suite 565,2.14
+Subway,567 Dean Ways Apt. 733,1.71
+McDonald's,0500 Riley Wells,1.06
+Five Guys,5698 Joel Trail Apt. 253,1.2
+McDonald's,19362 Payne Causeway Suite 534,NULL
+Burger King,8897 Castaneda Way Apt. 829,2.99
+Cracker Barrel,19507 Melissa Street,NULL
+IHOP,18825 Powers Trail,3.92
+Domino's,597 Matthews Dam Apt. 675,3.11
+Chili's,207 Beth Alley,1.76
+Arby's,006 Scott Mountain Suite 766,3.24
+McDonald's,30025 Cynthia Bypass Apt. 688,NULL
+Chipotle,5073 Scott Groves Suite 909,4.26
+Cracker Barrel,150 Tina Shoals Apt. 638,1.26
+Chili's,44769 Alexander Meadow Apt. 850,4.95
+Applebee's,2163 Sarah Inlet Suite 927,3.17
+Subway,66337 Julie Cape Apt. 093,1.11
+Texas Roadhouse,0549 Susan Fields Suite 973,1.23
+Chick-fil-A,556 Kaylee Fords,2.87
+Pizza Hut,6469 Crystal Crossroad,4.53
+Ruby Tuesday,190 Courtney Brook,2.79
+Domino's,082 Corey Coves,4.59
+IHOP,345 Poole Prairie Suite 418,1.95
+Olive Garden,213 Brandon Extensions Suite 945,NULL
+Chipotle,664 Austin Extension,4.04
+Popeyes,9058 Jonathan Via,4.16
+KFC,1673 Townsend Turnpike,3.26
+TGI Friday's,66057 Bradford Ramp,2.75
+Starbucks,000 Carney Circle,4.27
+Cheesecake Factory,20611 Wheeler Pine,3.01
+Sonic Drive-In,5073 Scott Groves Suite 909,NULL
+Panera Bread,92252 Diane Flat,NULL
+Subway,2314 Anderson Coves Suite 102,1.26
+Arby's,970 Smith Wells Suite 905,2.97
+Arby's,8840 Grant Valley Suite 846,4.32
+Red Lobster,598 Thomas Springs,2.06
+Domino's,456 Carrie Dale Apt. 861,3.09
+Chick-fil-A,553 Anderson Ridge Apt. 584,1.99
+Taco Bell,74304 Kevin Trail,4.87
+TGI Friday's,254 Natalie Harbor,NULL
+Dunkin',98184 Knight Underpass,4.24
+Applebee's,6038 Luis Parkways,1.36
+Chipotle,0976 Conway Route Apt. 897,1
+Starbucks,3461 Samuel Wells Apt. 182,3.94
+Tim Hortons,150 Tina Shoals Apt. 638,1.85
+Shake Shack,1247 Grace Islands Apt. 246,1.05
+Red Lobster,10865 Michael Ranch Suite 245,1.9
+TGI Friday's,31396 Lauren Lodge,1.64
+Ruby Tuesday,2314 Anderson Coves Suite 102,3.59
+Arby's,85583 Courtney Village Apt. 623,1.67
+Five Guys,007 Tiffany Haven Suite 378,4.2
+KFC,47568 Megan Village Apt. 490,2.73
+Texas Roadhouse,9072 Sherman Loop,1.58
+Sonic Drive-In,1247 Grace Islands Apt. 246,2.34
+Outback Steakhouse,26939 Mathews Throughway Suite 744,4.07
+Five Guys,920 Ashley Club,NULL
+Five Guys,720 Wells Street,2.65
+Domino's,251 Barnett Parks,1.39
+KFC,939 Smith Centers,4.89
+Olive Garden,4876 Williams Harbor Apt. 516,4.07
+Chipotle,8984 Moore Junctions Apt. 841,4.67
+McDonald's,925 Ramirez Road,2.74
+Dunkin',24104 Melissa Village,4.28
+Taco Bell,98184 Knight Underpass,3.91
+Panera Bread,08186 Briggs Path Apt. 893,2.84
+KFC,44067 Thompson Crescent,4.88
+Chili's,8481 Foster Drive,3.44
+Panera Bread,30025 Cynthia Bypass Apt. 688,3.49
+Texas Roadhouse,82905 Douglas Plains Suite 291,3.81
+Chili's,0768 Hector Trace,4.83
+Applebee's,389 Michael Drive Suite 565,4.79
+Five Guys,15565 Jacobs Crest,4.73
+Wendy's,0976 Conway Route Apt. 897,NULL
+Chick-fil-A,8877 Singleton Greens,3.82
+Red Lobster,53104 Lambert Field Suite 907,4.27
+Arby's,47622 Lauren Way,4.56
+Wendy's,97711 Leblanc Plains Apt. 306,1.73
+Olive Garden,455 Stephens Landing,4.96
+Dunkin',8840 Grant Valley Suite 846,4.25
+Domino's,616 Yvette Islands,3.04
+IHOP,6402 Reid Ford,4.9
+Chipotle,74829 Clarke Park,1.98
+Popeyes,6409 Johnson Plaza Suite 999,2.54
+Little Caesars,2845 Miller Harbors Suite 164,4.96
+Popeyes,480 Matthew Ville Suite 854,4.16
+Taco Bell,288 Benjamin Inlet,NULL
+Domino's,000 Carney Circle,4.45
+Wendy's,9465 Karen Estates Apt. 314,3.1
+Wendy's,0768 Hector Trace,2.32
+Shake Shack,757 Valerie Shores,1.7
+Sonic Drive-In,08186 Briggs Path Apt. 893,2.63
+Sonic Drive-In,745 Dana River Suite 513,1.62
+Applebee's,8830 Wise Forest Apt. 322,1.62
+Dunkin',480 Matthew Ville Suite 854,2.59
+Wendy's,898 David Squares,NULL
+Texas Roadhouse,66456 Katherine Place,2.49
+IHOP,198 Dana Junctions,4.86
+McDonald's,457 Bobby Lights Suite 545,NULL
+Dunkin',597 Matthews Dam Apt. 675,4.21
+Wendy's,20611 Wheeler Pine,3.65
+Shake Shack,199 Tamara Forks Suite 830,4.68
+Taco Bell,293 Williams Underpass,1.26
+KFC,943 Williams Flat Apt. 054,4.66
+Little Caesars,53104 Lambert Field Suite 907,NULL
+Chick-fil-A,5113 Webb Springs,2.77
+Taco Bell,68341 Christy Village,4.97
+Buffalo Wild Wings,670 Vanessa Cape,3.93
+Popeyes,845 Jennifer Underpass,2.34
+Taco Bell,9466 Hoffman Divide Suite 684,2.06
+IHOP,74004 Knight Manor,2.24
+Outback Steakhouse,1673 Townsend Turnpike,3.58
+Olive Garden,41292 Conway Cape,4.79
+IHOP,4859 Isaac Squares,4.35
+Olive Garden,861 Gibson Square Apt. 265,1.07
+Outback Steakhouse,34229 Earl Squares Apt. 712,2.71
+Ruby Tuesday,939 Smith Centers,3.24
+Outback Steakhouse,9486 Nancy Keys,4.06
+Applebee's,312 Kristy Glen,2.64
+Arby's,0500 Riley Wells,4.62
+Arby's,66337 Julie Cape Apt. 093,4.69
+Wendy's,22777 Rush Key,3.81
+McDonald's,598 Thomas Springs,4.49
+Chili's,6998 Colton Course Suite 685,2.58
+Tim Hortons,25623 Scott Extensions,1.59
+Cheesecake Factory,925 Ramirez Road,1.62
+Buffalo Wild Wings,30538 Carrie Pike Apt. 628,2.23
+Domino's,8830 Wise Forest Apt. 322,1.76
+Five Guys,2225 Gibson Islands Apt. 616,2.47
+Taco Bell,0769 Michael Springs,2.31
+TGI Friday's,5333 Patrick Route,1.43
+Burger King,039 Johnson Bypass Apt. 537,4.83
+TGI Friday's,000 Kane Expressway,4.58
+Buffalo Wild Wings,454 Darlene Port Apt. 418,NULL
+TGI Friday's,3871 Castaneda Pines Apt. 351,2.77
+Five Guys,32944 Carter River Apt. 361,4.62
+Applebee's,1254 Mason Forks Apt. 495,2.97
+Chick-fil-A,87065 Gallegos Landing Apt. 450,4.12
+Cheesecake Factory,8265 Fischer Tunnel,3.66
+Texas Roadhouse,419 Davis Centers Suite 321,3.43
+Chick-fil-A,74829 Clarke Park,4.83
+Chick-fil-A,362 Caitlin Corners Apt. 661,3.98
+Five Guys,8897 Castaneda Way Apt. 829,2.36
+Applebee's,2483 Walker Road,1.83
+KFC,861 Gibson Square Apt. 265,1.55
+Wendy's,677 Carolyn Way,2.87
+Domino's,358 Dodson Passage,4.93
+Tim Hortons,8877 Singleton Greens,2.95
+Applebee's,54047 Eric Station Apt. 446,4.55
+Chili's,87065 Gallegos Landing Apt. 450,4.93
+Cheesecake Factory,419 Davis Centers Suite 321,3.54
+Ruby Tuesday,9339 Autumn Burg Suite 220,NULL
+Buffalo Wild Wings,869 Jeremy Motorway,1.49
+Buffalo Wild Wings,68341 Christy Village,2.93
+Little Caesars,8446 Swanson Plaza Suite 553,1.76

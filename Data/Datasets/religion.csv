@@ -1,0 +1,26 @@
+religion_name,dietary_permittance,vegetarian,vegan,Alcohol
+Christianity,All Foods,False,False,True
+Islam,Halal Only,False,False,False
+Hinduism,Vegetarian Preferred,True,False,True
+Buddhism,Vegetarian Preferred,True,False,True
+Judaism,Kosher Only,False,False,True
+Sikhism,Vegetarian Preferred,True,False,True
+Atheism,All Foods,False,False,True
+Agnosticism,All Foods,False,False,True
+Shinto,All Foods,False,False,True
+Taoism,Vegetarian Preferred,True,False,True
+Zoroastrianism,Vegetarian Preferred,True,False,True
+Confucianism,All Foods,False,False,True
+Bahá'í,All Foods,False,False,False
+Jainism,Strictly Vegetarian,True,True,False
+Paganism,All Foods,False,False,True
+Animism,All Foods,False,False,True
+Rastafarianism,Vegetarian Preferred,True,False,False
+Scientology,All Foods,False,False,True
+Wicca,All Foods,False,False,True
+Druze,All Foods,False,False,True
+Falun Gong,Vegetarian Preferred,True,False,False
+Spiritism,All Foods,False,False,True
+Cao Dai,Vegetarian Preferred,True,False,True
+Unitarian Universalism,All Foods,False,False,True
+Native American Religions,All Foods,False,False,True
