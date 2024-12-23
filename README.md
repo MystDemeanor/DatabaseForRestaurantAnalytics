@@ -1,4 +1,4 @@
-## DatabaseForRestaurantAnalytics
+# DatabaseForRestaurantAnalytics
 
 # **Overview**
 
