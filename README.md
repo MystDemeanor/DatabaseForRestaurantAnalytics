@@ -1,4 +1,6 @@
-# DatabaseForRestaurantAnalytics
+## DatabaseForRestaurantAnalytics
+
+# **Overview**
 
 This GitHub repository contains the complete implementation of the Restaurant Analytics and Insights System, including:
 - Enhanced ER Modeling: Aggregation and subclassing techniques applied to the ER Model
