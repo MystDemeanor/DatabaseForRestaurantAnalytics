@@ -14,7 +14,7 @@ This GitHub repository contains the complete implementation of the Restaurant An
 
 The repository serves as a resource for businesses and students exploring data-driven decision-making in the food and restaurant industry. Check it out for a hands-on demonstration of relational database design, data processing, and analytics.
 
-# **ER Diagram of Project**
+# **ER Diagram of Database**
 <table>
   <tr>
     <td style="text-align: center;">
